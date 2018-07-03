@@ -1,9 +1,7 @@
-# AirPrint
-Smart Automated Printing Solution
+## AirPrint
+- Smart Automated Printing Solution
 
 ## Features
-
-### Adding
 - To be added Soon
 
 
