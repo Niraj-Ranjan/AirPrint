@@ -10,6 +10,7 @@
 - Change Details
 - Recent Print Jobs
 - Transaction History
+- Log Out
 
 
 ### Home Page
