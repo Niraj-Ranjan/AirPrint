@@ -16,6 +16,7 @@
 ### Home Page
 - Register User
 - Login
+- Language
 
 
 ## Release Notifications
