@@ -3,7 +3,18 @@
 - AirPrint System is a printing system of this advance era ,this machine has a design like an ATM machine ,here one can print any document and this system doesn't have any human influence other than user ,this system provides a account to user where one can upload his/her documents through their mobile phones and an e-wallet would be provided from which the total printing charges would be deducted after print operation , this account would have advance security features ,APS also has recycling features in it.
 
 ## Features
+
+### User Account
+- Summary
 - Web Print
+- Change Details
+- Recent Print Jobs
+- Transaction History
+
+
+### Home Page
+- Register User
+- Login
 
 
 ## Release Notifications
