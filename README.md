@@ -33,6 +33,11 @@ Interested in being notified prior to a new release of the Kiosk app? We will be
 
 ## Changelog
 
+- v5.0(02-09-2018)
+  - java application
+  - main website root redirect added.
+  
+  
 - v5.0
   - Save cookies, etc. across sessions.
   - default remote port to 8080.
@@ -50,6 +55,7 @@ Interested in being notified prior to a new release of the Kiosk app? We will be
   
 - v1.0
 	- initial version
+	
 	
 	
 
