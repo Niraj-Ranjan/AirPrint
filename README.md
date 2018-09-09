@@ -33,18 +33,22 @@ Interested in being notified prior to a new release of the Kiosk app? We will be
 
 ## Changelog
 
+- v6.0(09-09-2018)
+  	- Apache derby (Internal database)
+  	- Remove third party database.
+
 - v5.0(02-09-2018)
-  - java application
-  - main website root redirect added.
+ 	 - java application
+  	 - main website root redirect added.
   
   
 - v5.0
-  - Save cookies, etc. across sessions.
-  - default remote port to 8080.
-  - Prevent exiting fullscreen by pressing escape
+  	 - Save cookies, etc. across sessions.
+ 	 - default remote port to 8080.
+ 	 - Prevent exiting fullscreen by pressing escape
   
 - v4.0
-  - clear cache
+  	 - clear cache
   
 - v3.0
 	- prevent system sleep
