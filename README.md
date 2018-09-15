@@ -37,9 +37,13 @@ Interested in being notified prior to a new release of the Kiosk app? We will be
   	- Apache derby (Internal database)
   	- Remove third party database.
 
-- v5.0(02-09-2018)
+- v5.3(02-09-2018)
  	 - java application
   	 - main website root redirect added.
+	 
+- v5.2(21-08-2018)
+ 	 - AirPrint Bot email
+  	 - AirPrint Bot telegram
   
   
 - v5.0
