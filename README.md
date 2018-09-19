@@ -68,12 +68,12 @@ qwerty27
 	- https://airprints.tk/Portal.html for app/webapp
 	- https://airprints.tk/bot-error Bot Error Added
 	- 404 error page added
-	- lower resolution screens
+	- Lower resolution screens(7-Inch Support)
 
 
 - v6.0 (09-09-2018)
   	- Apache derby (Internal database)
-  	- Remove third party E-Wallet.
+  	- Remove third party E-Wallet (Credit @Himanshu Sir)
 
 
 - v5.0 (02-09-2018)
