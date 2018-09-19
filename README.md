@@ -35,6 +35,8 @@ qwerty27
 	- Added Custom amount payments
 	- payment gateway(live)
 	- https://airprints.tk/Portal.html for app/webapp
+	- https://airprints.tk/bot-error Bot Error Added
+	- 404 error page added
 
 
 - v6.0(09-09-2018)
