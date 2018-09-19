@@ -86,6 +86,15 @@ qwerty27
 + localhost title fix
 + Api improvement
 
+## Links
+
+* [Web site](https://#/)
+* [Documentation](https://#)
+* [Forum](https://#)
+* [Issue tracker](https://#)
+* [Source code](https://#)
+
+
 #### Licence : MIT
 
 #### Author : [Yash Nayak](http://yashnayak.tk) (yugn27@gmail.com)
