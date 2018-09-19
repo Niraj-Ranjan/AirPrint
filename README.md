@@ -47,7 +47,6 @@
 ### Home Page
 - Register User
 - Login
-- Language
 
 
 ### Admin
