@@ -64,6 +64,7 @@ SNMP tools (http://www.net-snmp.org)
 ReportLab Python module (http://www.reportlab.org)
 Python Imaging Library (aka PIL)
 PostgreSQL's PygreSQL Python extension (http://www.postgresql.org and http://www.pygreql.org)
+Google Cloud Print Connector (https://github.com/yugn27/cloud-print-connector)
 
 
 Recycling Module
