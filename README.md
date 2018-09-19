@@ -62,6 +62,7 @@ qwerty27
 - v8.0(19-09-2018)
   	- Added suppport for LMS(Learning Management System)
 	- Added autostart for StartUp
+	- Added Rules Engines for Email/Telegram Bots to Reply
 	
 
 - v7.0(19-09-2018)
