@@ -29,6 +29,13 @@ qwerty27
 
 ## Changelog
 
+- v7.0(19-09-2018)
+  	- Website updated
+  	- Remove plan chosser.
+	- Added Custom amount payments
+	- payment gateway(live)
+
+
 - v6.0(09-09-2018)
   	- Apache derby (Internal database)
   	- Remove third party database.
