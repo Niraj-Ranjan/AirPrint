@@ -64,6 +64,7 @@ qwerty27
 	- Added autostart for StartUp
 	- Added Rules Engines for Email/Telegram Bots to Reply
 	- Added Remote Monitoring
+	- Added BitPay bitcoin payment service
 	
 
 - v7.0(19-09-2018)
