@@ -133,6 +133,7 @@ qwerty27
 + API improvement
 + localhost title fix
 + Office Documents Supports
++ Setting the screen saver RPI
 
 ## Links
 
