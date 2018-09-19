@@ -70,43 +70,42 @@ qwerty27
 	- 404 error page added
 
 
-- v6.0(09-09-2018)
+- v6.0 (09-09-2018)
   	- Apache derby (Internal database)
   	- Remove third party database.
 
-- v5.3(02-09-2018)
+- v5.0 (02-09-2018)
  	 - java application
   	 - main website root redirect added.
 	 
-- v5.2(21-08-2018)
- 	 - AirPrint Bot email
-  	 - AirPrint Bot telegram
+- v4.0 (21-08-2018)
+ 	 - AirPrint Bot email (Automatic Processing)
+  	 - AirPrint Bot telegram (Automatic Processing)
   
-  
-- v5.0
+- v3.0 (15-08-2018)
   	 - Save cookies, etc. across sessions.
- 	 - default remote port to 8080.
- 	 - Prevent exiting fullscreen by pressing escape
+ 	 - Using of seprate remote port.
+ 	 - Prevent exiting fullscreen by pressing escape.
   
-- v4.0
-  	 - clear cache
-  
-- v3.0
+- v2.1 (05-08-2018)
 	- prevent system sleep
   
-- v2.0
-	- basic file screen
-	- setup page for printing
+- v2.0 (01-08-2018)
+	- Basic file printing
+	- Setup page for printing
+	- Postscript page counter
+	- Support All Printers (CUPS)
+	- Browser Prinitng
   
-- v1.0
-	- initial version
+- v1.0 (15-07-2018)
+	- Initial release
 	
 	
 	
 ## Todos
 + Process file from previous one to improve processing speed.
-+ localhost title fix
 + API improvement
++ localhost title fix
 + Office Documents Supports
 
 ## Links
