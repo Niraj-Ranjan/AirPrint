@@ -106,15 +106,16 @@ qwerty27
 ## Todos
 + Process file from previous one to improve processing speed.
 + localhost title fix
-+ Api improvement
++ API improvement
++ Office Documents Supports
 
 ## Links
 
-* [Web site](https://#/)
-* [Documentation](https://#)
-* [Forum](https://#)
-* [Issue tracker](https://#)
-* [Source code](https://#)
+* [Web site](http://airprints.tk)
+* [Documentation](https://github.com/yugn27/AirPrint)
+* [Forum](https://airprints.tk/support.html)
+* [Issue tracker](https://github.com/yugn27/AirPrint/issues)
+* [Source code](https://github.com/yugn27/AirPrint)
 
 
 ## Licence : 
