@@ -60,6 +60,10 @@ qwerty27
 
 ## Changelog
 
+- v8.0(19-09-2018)
+  	- Added suppport for LMS(Learning Management System)
+	
+
 - v7.0(19-09-2018)
   	- Website updated
   	- Remove plan chosser
@@ -69,7 +73,7 @@ qwerty27
 	- https://airprints.tk/bot-error Bot Error Added
 	- 404 error page added
 	- Lower resolution screens(7-Inch Support)
-
+	
 
 - v6.0 (09-09-2018)
   	- Apache derby (Internal database)
