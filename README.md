@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://airprints.tk"><img src="https://raw.githubusercontent.com/yugn27/AirPrint/master/Images/AirPrint.png" alt="Markdownify" width="200"></a>
+  <a href="https://airprints.tk"><img src="https://raw.githubusercontent.com/yugn27/AirPrint/master/Images/AirPrint.png?token=AWDf1VVEBkGRYT6l4PrcF8gBS2i1gM3rks5bq3aTwA%3D%3D" alt="Markdownify" width="200"></a>
   <br>
   AirPrint
   <br>
