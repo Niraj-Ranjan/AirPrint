@@ -7,6 +7,8 @@
 
 ## Features
 
+- Multi-Platform
+
 ### User Account
 - Summary
 - Web Print
