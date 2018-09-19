@@ -82,21 +82,28 @@ qwerty27
 - v4.0 (21-08-2018)
  	 - AirPrint Bot email (Automatic Processing)
   	 - AirPrint Bot telegram (Automatic Processing)
-  
+
 - v3.0 (15-08-2018)
   	 - Save cookies, etc. across sessions.
  	 - Using of seprate remote port.
- 	 - Prevent exiting fullscreen by pressing escape.
+ 	 - Prevent exiting fullscreen by pressing escape.(RPI-3)
+
+- v2.2 (15-08-2018)
+ 	 - Moved to CMS(Content Management System)
+	 - Database/Apache
+	 - Postscript page counter
   
 - v2.1 (05-08-2018)
-	- prevent system sleep
+	- Prevent system sleep
   
 - v2.0 (01-08-2018)
 	- Basic file printing
 	- Setup page for printing
-	- Postscript page counter
 	- Support All Printers (CUPS)
 	- Browser Prinitng
+	- File Uploader
+	- File Size
+	- Direct Printer
   
 - v1.0 (15-07-2018)
 	- Initial release
