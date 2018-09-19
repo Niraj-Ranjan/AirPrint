@@ -95,6 +95,10 @@ qwerty27
 * [Source code](https://#)
 
 
-## Licence : MIT
+## Licence : 
 
-## Author : [Yash Nayak](http://yashnayak.tk) (yugn27@gmail.com)
+MIT
+
+## Author : 
+
+[Yash Nayak](http://yashnayak.tk) (yugn27@gmail.com)
