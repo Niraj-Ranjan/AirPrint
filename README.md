@@ -62,9 +62,9 @@ qwerty27
 
 - v7.0(19-09-2018)
   	- Website updated
-  	- Remove plan chosser.
+  	- Remove plan chosser
 	- Added Custom amount payments
-	- payment gateway(live)
+	- Payment gateway(live)
 	- https://airprints.tk/Portal.html for app/webapp
 	- https://airprints.tk/bot-error Bot Error Added
 	- 404 error page added
@@ -77,8 +77,8 @@ qwerty27
 
 
 - v5.0 (02-09-2018)
- 	 - Java Application.
-  	 - Main website root redirect added.
+ 	 - Java Application Added
+  	 - Main website root redirect added
 	 - Indian Currency Symbol Added
 	 
 - v4.0 (21-08-2018)
@@ -94,9 +94,9 @@ qwerty27
 	 - Logo
 	 
 - v3.0 (06-08-2018)
-  	 - Save cookies, etc. across sessions.
- 	 - Using of seprate remote port.
- 	 - Prevent exiting fullscreen by pressing escape.(RPI-3)
+  	 - Save cookies, etc. across sessions
+ 	 - Using of seprate remote port
+ 	 - Prevent exiting fullscreen by pressing escape(RPI-3)
 
 - v2.1 (05-08-2018)
 	- Prevent system sleep
@@ -107,7 +107,7 @@ qwerty27
 	 - Postscript page counter
 	 
  
-- v2.0 (01-08-2018)
+- v1.1 (01-08-2018)
 	- Basic file printing
 	- Setup page for printing
 	- Support All Printers (CUPS)
