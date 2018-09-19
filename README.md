@@ -34,6 +34,7 @@ qwerty27
   	- Remove plan chosser.
 	- Added Custom amount payments
 	- payment gateway(live)
+	- https://airprints.tk/Portal.html for app/webapp
 
 
 - v6.0(09-09-2018)
