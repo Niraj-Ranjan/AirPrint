@@ -112,6 +112,7 @@ qwerty27
  	 - Moved to CMS(Content Management System)
 	 - Database/Apache
 	 - Postscript page counter
+	 - jQuery Core
 	 
  
 - v1.1 (01-08-2018)
