@@ -150,7 +150,7 @@ qwerty27
 * [Issue tracker](https://github.com/yugn27/AirPrint/issues)
 * [Source code](https://github.com/yugn27/AirPrint)
 
-
+## License
 ## Licence
 
 MIT
