@@ -151,6 +151,9 @@ qwerty27
 ## Upgrade
 + Canon Duplex Printer LBP3300 (for duplex Printing)
 
+## Reference
+Automatic Paper Counting Machine * [http://www.ijste.org/articles/IJSTEV2I10167.pdf](http://www.ijste.org/articles/IJSTEV2I10167.pdf)
+
 ## Links
 
 * [Web site](http://airprints.tk)
