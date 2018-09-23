@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-   <a href="#how-to-use">ChangeLog</a> •
+   <a href="#changelog">ChangeLog</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
