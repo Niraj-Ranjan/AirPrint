@@ -146,6 +146,7 @@
 + ngrok tunnel
 + Google Cloud Printing
 + Add googledrive link for android app/docker image
++ Cloud Sync
 
 ## Upgrade
 + Canon Duplex Printer LBP3300 (for duplex Printing)
