@@ -55,7 +55,7 @@ qwerty27
 - User List
 - Printer List 
 
-## How To Use
+
 ## ChangeLog
 
 - v8.0(19-09-2018)
