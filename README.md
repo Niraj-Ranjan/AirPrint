@@ -57,6 +57,12 @@ qwerty27
 - Printer List 
 
 
+### Hardware
+ - Raspberry Pi 2 Model B+
+ - Memory Card
+ - Touch Screen Display
+
+
 ## ChangeLog
 
 - v8.0(19-09-2018)
