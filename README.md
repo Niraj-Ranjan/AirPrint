@@ -109,9 +109,11 @@ qwerty27
 	- Prevent system sleep
 
 - v2.0 (05-08-2018)
- 	 - Moved to CMS(Content Management System)
-	 - Database/Apache
-	 - Postscript page counter
+ 	 - PyKota
+	 - PyKotIcon
+	 - pkpgcounter
+	 - Tea4CUPS
+	 - pkipplib
 	 - jQuery Core
 	 
  
@@ -123,8 +125,7 @@ qwerty27
 	- File Uploader
 	- File Size
 	- Direct Printing
-	- Pdfjs
-	- Webcp
+	
   
 - v1.0 (15-07-2018)
 	- Initial release
