@@ -51,8 +51,6 @@
 
 
 ### Admin
-yashn
-qwerty27
 - User List
 - Printer List 
 
