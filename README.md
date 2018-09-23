@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#Changelog">ChangeLog</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
@@ -56,8 +56,7 @@ qwerty27
 - Printer List 
 
 
-
-## Changelog
+## ChangeLog
 
 - v8.0(19-09-2018)
   	- Added suppport for LMS(Learning Management System)
