@@ -123,6 +123,7 @@ qwerty27
 	- File Uploader
 	- File Size
 	- Direct Printing
+	- Pdfjs
   
 - v1.0 (15-07-2018)
 	- Initial release
