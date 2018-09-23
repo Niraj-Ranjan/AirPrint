@@ -140,6 +140,7 @@ qwerty27
 + Setting the screen saver RPI
 + Cash Manager
 + ngrok tunnel
++ Google Cloud Printing
 
 ## Links
 
