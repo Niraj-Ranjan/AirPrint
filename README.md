@@ -135,6 +135,7 @@ qwerty27
 + localhost title fix
 + Office Documents Supports
 + Setting the screen saver RPI
++ Cash Manager
 
 ## Links
 
