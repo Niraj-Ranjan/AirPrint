@@ -148,6 +148,9 @@ qwerty27
 + ngrok tunnel
 + Google Cloud Printing
 
+## Upgrade
++ Canon Duplex Printer LBP3300 (for duplex Printing)
+
 ## Links
 
 * [Web site](http://airprints.tk)
