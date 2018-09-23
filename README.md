@@ -124,6 +124,7 @@ qwerty27
 	- File Size
 	- Direct Printing
 	- Pdfjs
+	- Webcp
   
 - v1.0 (15-07-2018)
 	- Initial release
