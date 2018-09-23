@@ -151,10 +151,10 @@ qwerty27
 * [Source code](https://github.com/yugn27/AirPrint)
 
 
-## Licence : 
+## Licence
 
 MIT
 
-## Author : 
+## Author
 
 [Yash Nayak](http://yashnayak.tk) (yugn27@gmail.com)
