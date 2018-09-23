@@ -147,6 +147,7 @@
 + Google Cloud Printing
 + Add googledrive link for android app/docker image
 + Cloud Sync
++ Static IP
 
 ## Upgrade
 + Canon Duplex Printer LBP3300 (for duplex Printing)
