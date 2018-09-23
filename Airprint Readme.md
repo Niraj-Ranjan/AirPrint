@@ -1,11 +1,9 @@
-Airprint
-
 Hardware
 Rapberry Pi 2 Model b+
 Memory Card
 PC 
 Touch scree mDislpay
-hdmi to vga
+
 
 Software
 CUPS backend
