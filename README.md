@@ -64,8 +64,9 @@
 ## ChangeLog
 
 - v8.0(27-09-2018)
-	- Rebuild done.
+	- Rebuild done
 	- Added Help Redirect to airprint.tk
+	- Added admin cash manager
 
 - v8.0(24-09-2018)
 	- [DERBY-5281] Derby DB Corrupt fix
@@ -144,12 +145,8 @@
 	
 	
 ## Todos
-+ Process file from previous one to improve processing speed.
-+ API improvement
-+ localhost title fix
 + Office Documents Supports
 + Setting the screen saver RPI
-+ Cash Manager
 + ngrok tunnel
 + Google Cloud Printing
 + Add googledrive link for android app/docker image
