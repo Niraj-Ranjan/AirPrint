@@ -150,6 +150,7 @@
 + ngrok tunnel
 + Google Cloud Printing
 + Add googledrive link for android app/docker image
++ To fix icon rupees
 
 + Static IP
 
