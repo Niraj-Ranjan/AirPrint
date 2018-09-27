@@ -150,12 +150,13 @@
 + ngrok tunnel
 + Google Cloud Printing
 + Add googledrive link for android app/docker image
-+ Cloud Sync
+
 + Static IP
 
 ## Upgrade
 + Canon Duplex Printer LBP3300 (for duplex Printing)
 + Screen saver for quotes
++ Can add Cloud Sync
 
 ## Reference
 + CUPS (http://www.cups.org)
