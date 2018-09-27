@@ -156,7 +156,7 @@
 ## Upgrade
 + Canon Duplex Printer LBP3300 (for duplex Printing)
 + Screen saver for quotes
-+ Can add Cloud Sync
++ Can add Cloud Sync (Consumes Data)
 
 ## Reference
 + CUPS (http://www.cups.org)
