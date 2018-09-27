@@ -65,6 +65,7 @@
 
 - v8.0(27-09-2018)
 	- Rebuild done.
+	- Added Help Redirect to airprint.tk
 
 - v8.0(24-09-2018)
 	- [DERBY-5281] Derby DB Corrupt fix
