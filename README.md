@@ -158,6 +158,7 @@
 
 ## Upgrade
 + Canon Duplex Printer LBP3300 (for duplex Printing)
++ Screen saver for quotes
 
 ## Reference
 + CUPS (http://www.cups.org)
