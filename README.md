@@ -35,6 +35,7 @@
 ## Key Features
 
 - Multi-Platform
+- Auto delet files
 
 ### User Account
 - Summary
