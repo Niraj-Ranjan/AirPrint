@@ -183,8 +183,11 @@ MIT
 
 ## Author
 
--[Simran Gyanchandani](https://github.com/simrang) (gyanchandani_simran.ghrcecs@raisoni.net)
--[Vishitosh Kapale](https://github.com/vishi10) (vishitoshkapale10@gmail.com)
--[Niraj Ranjan](https://github.com/Niraj-Ranjan) (n.ranjan2308@gmail.com)
--[Yash Nayak](https://github.com/yugn27) (yugn27@gmail.com)
+[Simran Gyanchandani](https://github.com/simrang) (gyanchandani_simran.ghrcecs@raisoni.net)
+
+[Vishitosh Kapale](https://github.com/vishi10) (vishitoshkapale10@gmail.com)
+
+[Niraj Ranjan](https://github.com/Niraj-Ranjan) (n.ranjan2308@gmail.com)
+
+[Yash Nayak](https://github.com/yugn27) (yugn27@gmail.com)
 
