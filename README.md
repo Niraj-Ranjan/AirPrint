@@ -60,6 +60,9 @@
  - Raspberry Pi 2 Model B+
  - Memory Card
  - Touch Screen Display
+ - Printer
+ - PC
+ - Numeric Keypad
 
 
 ## ChangeLog
