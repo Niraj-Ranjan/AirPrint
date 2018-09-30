@@ -169,7 +169,6 @@
 ## Todos
 + Office Documents Supports
 + ngrok tunnel
-+ Google Cloud Printing
 + Static IP
 
 ## Upgrade
