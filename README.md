@@ -77,6 +77,12 @@
 
 
 ## ChangeLog
+- v8.0(30-09-2018)
+	- To fix icon rupees
+	- Added to "Enter you username and password" on rpi login screen
+	
+- v8.0(29-09-2018)
+	- Fix display frames
 
 - v8.0(27-09-2018)
 	- Rebuild done
@@ -163,7 +169,6 @@
 + Office Documents Supports
 + ngrok tunnel
 + Google Cloud Printing
-+ To fix icon rupees
 + Static IP
 
 ## Upgrade
