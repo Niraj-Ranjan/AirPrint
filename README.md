@@ -161,10 +161,8 @@
 	
 ## Todos
 + Office Documents Supports
-+ Setting the screen saver RPI
 + ngrok tunnel
 + Google Cloud Printing
-+ Add googledrive link for android app/docker image
 + To fix icon rupees
 + Static IP
 
@@ -172,6 +170,7 @@
 + Canon Duplex Printer LBP3300 (for duplex Printing)
 + Screen saver for quotes
 + Can add Cloud Sync (Consumes Data)
++ Setting the screen saver RPI for Ad's
 
 ## Reference
 + CUPS (http://www.cups.org)
