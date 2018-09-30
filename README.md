@@ -80,6 +80,7 @@
 - v8.0(30-09-2018)
 	- To fix icon rupees
 	- Added to "Enter you username and password" on rpi login screen
+	- AirPrint Cloud Bot(on top of Google Cloud Print)
 	
 - v8.0(29-09-2018)
 	- Fix display frames
