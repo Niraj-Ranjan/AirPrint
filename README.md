@@ -37,6 +37,17 @@
 - Multi-Platform
 - Auto delet files
 
+
+## Usage
+- Colleges
+- Schools
+- AirPorts
+- Hotels
+- Shopping Mall 
+- Commercial buildings
+- Goverment Office
+- Office Building
+
 ### User Account
 - Summary
 - Web Print
@@ -167,6 +178,11 @@
 + PyKota v1.27 (www.pykota.com)
 + Automatic Paper Counting Machine (http://www.ijste.org/articles/IJSTEV2I10167.pdf)
 + Google Cloud Print Connector (https://github.com/yugn27/cloud-print-connector)
+
+
+## Used
++ Etcher (https://etcher.io/)
++ ngrok (https://ngrok.com/)
 
 ## Links
 
