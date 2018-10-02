@@ -200,6 +200,10 @@
 
 MIT
 
+## Thesis
+
+https://github.com/yugn27/AirPrint/blob/master/Thesis/Thesis_C01.pdf
+
 ## Author
 
 [Simran Gyanchandani](https://github.com/simrang) (gyanchandani_simran.ghrcecs@raisoni.net)
