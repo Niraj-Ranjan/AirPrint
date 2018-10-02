@@ -77,6 +77,10 @@
 
 
 ## ChangeLog
+
+- v9.0(02-10-2018)
+	- Added NFC
+	
 - v8.0(30-09-2018)
 	- To fix icon rupees
 	- Added to "Enter you username and password" on rpi login screen
