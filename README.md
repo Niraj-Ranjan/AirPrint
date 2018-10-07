@@ -205,6 +205,7 @@ https://drive.google.com/drive/folders/1xAVVR00UZjSJy39cc0v0ApUjeCaTkXmP?usp=sha
 ## License
 
 MIT
+https://github.com/yugn27/AirPrint/blob/master/LICENSE
 
 ## Thesis
 
@@ -219,6 +220,10 @@ https://github.com/yugn27/AirPrint/tree/master/3d%20Model
 ### Docker
 
 https://github.com/yugn27/AirPrint/tree/master/Docker
+
+### Java App (Source Code)
+
+https://github.com/yugn27/AirPrint/tree/master/Java%20App
 
 ### Images 
 
@@ -242,9 +247,7 @@ https://github.com/yugn27/AirPrint/tree/master/Images/Telegram%
 
 https://github.com/yugn27/AirPrint/tree/master/Images/WebApp
 
-### Java App (Source Code)
 
-https://github.com/yugn27/AirPrint/tree/master/Java%20App
 
 ### Measurement
 
