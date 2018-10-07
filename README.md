@@ -210,9 +210,45 @@ MIT
 
 https://github.com/yugn27/AirPrint/blob/master/Thesis/Thesis_C01.pdf
 
-## Images 
-### Fabrication
+##  Add Resource 
+
+### 3D Model
+
+https://github.com/yugn27/AirPrint/tree/master/3d%20Model
+
+### Docker
+
+https://github.com/yugn27/AirPrint/tree/master/Docker
+
+### Images 
+
+#### Android App
+
+https://github.com/yugn27/AirPrint/tree/master/Images/Android%20App
+
+#### Email Bot
+
+https://github.com/yugn27/AirPrint/tree/master/Images/Email%20bot
+
+#### Fabrication
+
 https://github.com/yugn27/AirPrint/tree/master/Images/Fabrication
+
+#### Telegram Bot
+
+https://github.com/yugn27/AirPrint/tree/master/Images/Telegram%
+
+#### Web App
+
+https://github.com/yugn27/AirPrint/tree/master/Images/WebApp
+
+### Java App (Source Code)
+
+https://github.com/yugn27/AirPrint/tree/master/Java%20App
+
+### Measurement
+
+https://github.com/yugn27/AirPrint/tree/master/Measurement
 
 ## Author
 
