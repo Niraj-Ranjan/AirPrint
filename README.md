@@ -37,6 +37,17 @@
 - Multi-Platform
 - Auto delet files
 
+
+## Usage
+- Colleges
+- Schools
+- AirPorts
+- Hotels
+- Shopping Mall 
+- Commercial buildings
+- Goverment Office
+- Office Building
+
 ### User Account
 - Summary
 - Web Print
@@ -66,6 +77,17 @@
 
 
 ## ChangeLog
+
+- v9.0(02-10-2018)
+	- Added NFC
+	
+- v8.0(30-09-2018)
+	- To fix icon rupees
+	- Added to "Enter you username and password" on rpi login screen
+	- AirPrint Cloud Bot(on top of Google Cloud Print)
+	
+- v8.0(29-09-2018)
+	- Fix display frames
 
 - v8.0(27-09-2018)
 	- Rebuild done
@@ -146,27 +168,31 @@
 - v1.0 (15-07-2018)
 	- Initial release
 	
-	
+## Extra Code
+Code which cannot be uploaded on github are shared with google drive
+https://drive.google.com/drive/folders/1xAVVR00UZjSJy39cc0v0ApUjeCaTkXmP?usp=sharing	
 	
 ## Todos
 + Office Documents Supports
-+ Setting the screen saver RPI
 + ngrok tunnel
-+ Google Cloud Printing
-+ Add googledrive link for android app/docker image
-+ To fix icon rupees
 + Static IP
 
 ## Upgrade
 + Canon Duplex Printer LBP3300 (for duplex Printing)
 + Screen saver for quotes
 + Can add Cloud Sync (Consumes Data)
++ Setting the screen saver RPI for Ad's
 
 ## Reference
 + CUPS (http://www.cups.org)
 + PyKota v1.27 (www.pykota.com)
 + Automatic Paper Counting Machine (http://www.ijste.org/articles/IJSTEV2I10167.pdf)
 + Google Cloud Print Connector (https://github.com/yugn27/cloud-print-connector)
+
+
+## Used
++ Etcher (https://etcher.io/)
++ ngrok (https://ngrok.com/)
 
 ## Links
 
@@ -179,6 +205,53 @@
 ## License
 
 MIT
+https://github.com/yugn27/AirPrint/blob/master/LICENSE
+
+## Thesis
+
+https://github.com/yugn27/AirPrint/blob/master/Thesis/Thesis_C01.pdf
+
+##  Add Resource 
+
+### 3D Model
+
+https://github.com/yugn27/AirPrint/tree/master/3d%20Model
+
+### Docker
+
+https://github.com/yugn27/AirPrint/tree/master/Docker
+
+### Java App (Source Code)
+
+https://github.com/yugn27/AirPrint/tree/master/Java%20App
+
+### Images 
+
+#### Android App
+
+https://github.com/yugn27/AirPrint/tree/master/Images/Android%20App
+
+#### Email Bot
+
+https://github.com/yugn27/AirPrint/tree/master/Images/Email%20bot
+
+#### Fabrication
+
+https://github.com/yugn27/AirPrint/tree/master/Images/Fabrication
+
+#### Telegram Bot
+
+https://github.com/yugn27/AirPrint/tree/master/Images/Telegram%
+
+#### Web App
+
+https://github.com/yugn27/AirPrint/tree/master/Images/WebApp
+
+
+
+### Measurement
+
+https://github.com/yugn27/AirPrint/tree/master/Measurement
 
 ## Author
 
